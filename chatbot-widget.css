@@ -219,6 +219,7 @@ vertical-align: middle;
   cursor: pointer !important;
   overflow: visible !important;
   display: flex;
+  background-size: 50px 45px !important; /* Adjust size to fit the button */
   justify-content: center;
   align-items: center;
   padding: 0 !important;
